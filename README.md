@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JrMattia&show_icons=true&locale=en" alt="khanmanan" /></p>
 
-# Activity
+# ME
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/698945624258773023)](https://discord.com/users/698945624258773023)
